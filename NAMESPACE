@@ -1,0 +1,26 @@
+#exportPattern("^[[:alpha:]]+")
+
+importFrom(Hmisc, errbar)
+importFrom(Matching, Match)
+
+importFrom("graphics", "axis", "legend", "lines", "plot", "text", "title")
+importFrom("stats", "cov", "glm", "lm", "quantile", "rnorm", "sd")
+
+# core functions
+export(mlr.bias.constructor)
+export(mlr.bias)
+export(mlr.orthogonalize)
+export(mlr.variance)
+export(mlr.power)
+export(mlr.smd)
+
+# wrapper functions
+export(mlr.match)
+S3method("summary", "mlr")
+S3method("plot", "summary.mlr")
+export(mlr)
+export(mlr.combine.bias.variance)
+
+# utility functions
+export(mlr.generate.Z.o)
+
