@@ -1,4 +1,5 @@
-6e7fa8e3e300366b1f3efe2ea1cb306c *DESCRIPTION
+26d0700c6f06f727612f34c3dbaa5901 *ChangeLog
+668568cfff12af5151aa6723d79c9893 *DESCRIPTION
 5b3f732edd1f53efde0c4f4e8ac46f5d *NAMESPACE
 90822c7f7d593478076275cc4466a36a *R/mlr_core.R
 8fc81b92a748cb4eaa96fce0e6fc878a *R/mlr_utils.R
@@ -13,9 +14,9 @@ c586b2b2d129c3ee5cdaaa9e159adbf7 *man/mlr.Rd
 0177ee985df45922b93593dfda5b8e29 *man/mlr.bias.constructor.Rd
 f0da6d6302c6452a44a5e30012813793 *man/mlr.combine.bias.variance.Rd
 ad2b6da3da0ccf29f5f309c015938cdf *man/mlr.generate.Z.o.Rd
-16dc34ed2a658570ab12141226ae12a0 *man/mlr.match.Rd
+64884b83e20d3139f9d476d48cbf3184 *man/mlr.match.Rd
 ce1ef8440d6dde3b5729a77b1de2e6a6 *man/mlr.orthogonalize.Rd
-cee827b04a536b598e83640175e9ad34 *man/mlr.power.Rd
+27875fdb8666a3081557daa97ef6a381 *man/mlr.power.Rd
 92213bc6066fd41378d97c5f8887cc3f *man/mlr.smd.Rd
 587560f0d27899421bb33226114716c4 *man/mlr.variance.Rd
 88c9d768c900c9e5782a417714ccb702 *man/plot.summary.mlr.Rd

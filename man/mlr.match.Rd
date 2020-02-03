@@ -19,7 +19,6 @@ mlr.match(tr, X, psm = TRUE, replace = F, caliper = Inf
   \item{replace}{Boolean flag, indicating whether matching must be done with or without replacement.}
   \item{caliper}{Size of caliper (standardized distance of two observations) used in matching. Treatment and control observations with standardized distance larger than \code{caliper} will not be considered as eligible pairs duing matching.}
   \item{verbose}{Boolean flag, indicating whether size of treatment and control groups before and after matching will be printed.}
-  \item{\dots}{Other arguments to be passed to \code{Match} function.}
 }
 
 \details{
