@@ -1,12 +1,15 @@
-26d0700c6f06f727612f34c3dbaa5901 *ChangeLog
-668568cfff12af5151aa6723d79c9893 *DESCRIPTION
+ec129b0c5cfc8fa1b0ba1fde5c2b5211 *ChangeLog
+86ba8ee138ecf5eed6f8dc799fabf1d8 *DESCRIPTION
 5b3f732edd1f53efde0c4f4e8ac46f5d *NAMESPACE
 90822c7f7d593478076275cc4466a36a *R/mlr_core.R
 8fc81b92a748cb4eaa96fce0e6fc878a *R/mlr_utils.R
 bb4eb44764fde436ba7c8429ec74a8f8 *R/mlr_wrapper.R
 c2a87ee45b51d3047de6f78e4b723b3c *R/zzz.R
+ca9d658627e17807810be8c33316627f *build/vignette.rds
 73da3eb568aab19524ecdf6cf34ca1e8 *data/lalonde.RData
 1dd836eb17fa970fc4d9fb83257bf9fa *data/lindner.RData
+c93c7e7744f04de888e9c4172e7c4ff7 *inst/doc/MatchLinReg.pdf
+26c70f444ad3fe542de4082a135637a3 *inst/doc/MatchLinReg.pdf.asis
 19f14ef731ef2879aa3b65d7dd6a3e54 *man/lalonde.Rd
 2d773d538325ffddecd9a4218445cc87 *man/lindner.Rd
 c586b2b2d129c3ee5cdaaa9e159adbf7 *man/mlr.Rd
@@ -21,3 +24,4 @@ ce1ef8440d6dde3b5729a77b1de2e6a6 *man/mlr.orthogonalize.Rd
 587560f0d27899421bb33226114716c4 *man/mlr.variance.Rd
 88c9d768c900c9e5782a417714ccb702 *man/plot.summary.mlr.Rd
 270fe06a65528d35ff88cf40953cdb17 *man/summary.mlr.Rd
+26c70f444ad3fe542de4082a135637a3 *vignettes/MatchLinReg.pdf.asis
